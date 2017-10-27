@@ -10,3 +10,4 @@ git checkout master
 git pull
 git merge Branch1
 git push
+#Merged the changes from Branch1
